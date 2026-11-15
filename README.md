@@ -6,7 +6,7 @@
 **Course Code & Name:** INSY 8311 & Database Development with PL/SQL  
 **Instructor:** Eric Maniraguha (AUCA)  
 **Academic Year:** 2026–2027 (Semester I)  
-**Group:** Monday Grp I (No. 6) — **Status:** APPROVED ✅  
+**Group:** Monday Grp I 
 **Repository:** [https://github.com/dushimimanaemmy/Emmanuel_20251SEN201_cimerwaTrack](https://github.com/dushimimanaemmy/Emmanuel_20251SEN201_cimerwaTrack)  
 
 ---
@@ -45,7 +45,7 @@ This system provides an Oracle PL/SQL database solution that enforces an unbroke
 - **User Interface:** Interactive Python Streamlit / Oracle APEX web application connecting live to Oracle Database, allowing dealer owners to review reconciliation reports, delivery shortages, and theft alerts in real time.
 
 ## 7. Phase 0 Deliverable Links
-- [Research Log](docs/research/research_log.md)
-- [Project Proposal (2-Page)](docs/proposal/project_proposal.md)
-- [Presentation Slides (12 Slides)](docs/presentation/presentation_slides.md)
+- [Research Log](docs/research/research_log.docx)
+- [Project Proposal (2-Page)](docs/proposal/project_proposal.pdf)
+- [Presentation Slides (12 Slides)](docs/presentation/presentation_slides.pptx)
 - [Benchmark Data Overview](data/data_source_description.md)
