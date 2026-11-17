@@ -2,7 +2,8 @@
 
 - **Source Name:** Kaggle "Cement Sales & Demand Dataset"
 - **Author:** Kishor Khengare
-- **Direct Kaggle URL:** [https://www.kaggle.com/datasets/kishorkhengare/cement-sales-demand](https://www.kaggle.com/datasets/kishorkhengare/cement-sales-demand)
+- **Direct Kaggle URL:** https://www.kaggle.com/datasets/saritanandal/cement-demand-forecasting-dataset
+
 - **Time Coverage:** January 2010 – November 2022 (150+ monthly transactional records)
 - **License:** Open Database License (ODbL) / Permitted for educational use
 - **Privacy:** 100% anonymized, zero personally identifiable information (PII)

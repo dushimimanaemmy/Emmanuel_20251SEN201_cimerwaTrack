@@ -24,7 +24,8 @@ This system provides an Oracle PL/SQL database solution that enforces an unbroke
 - Deliver an interactive User Interface (Python Streamlit / Oracle APEX) connecting live to Oracle Database.
 
 ## 3. Data Source
-- **Primary Source:** Kaggle Cement Sales & Demand Dataset (`https://www.kaggle.com/datasets/kishorkhengare/cement-sales-demand`) by Kishor Khengare.
+- **Primary Source:** Kaggle Cement Sales & Demand Dataset
+ https://www.kaggle.com/datasets/saritanandal/cement-demand-forecasting-dataset by Kishor Khengare.
 - **Scope:** 150+ monthly production and sales records without personal identifiable information (PII), used to calibrate normalized transactional tables and realistic Rwandan pricing benchmarks (8,500 RWF per 50kg bag).
 
 ## 4. Planned Schema (Focused 6-Table Relational Schema in 3NF)
